@@ -1,0 +1,201 @@
+sentence,label
+"I absolutely loved the movie",1
+"I absolutely loved the product",1
+"I absolutely loved the service",1
+"I absolutely loved the experience",1
+"I absolutely loved the restaurant",1
+"I absolutely loved the book",1
+"I absolutely loved the app",1
+"I absolutely loved the vacation",1
+"I absolutely loved the purchase",1
+"I absolutely loved the performance",1
+"This was an amazing movie",1
+"This was an amazing product",1
+"This was an amazing service",1
+"This was an amazing experience",1
+"This was an amazing restaurant",1
+"This was an amazing book",1
+"This was an amazing app",1
+"This was an amazing vacation",1
+"This was an amazing purchase",1
+"This was an amazing performance",1
+"What a fantastic movie",1
+"What a fantastic product",1
+"What a fantastic service",1
+"What a fantastic experience",1
+"What a fantastic restaurant",1
+"What a fantastic book",1
+"What a fantastic app",1
+"What a fantastic vacation",1
+"What a fantastic purchase",1
+"What a fantastic performance",1
+"I am so happy with the movie",1
+"I am so happy with the product",1
+"I am so happy with the service",1
+"I am so happy with the experience",1
+"I am so happy with the restaurant",1
+"I am so happy with the book",1
+"I am so happy with the app",1
+"I am so happy with the vacation",1
+"I am so happy with the purchase",1
+"I am so happy with the performance",1
+"This is the best movie",1
+"This is the best product",1
+"This is the best service",1
+"This is the best experience",1
+"This is the best restaurant",1
+"This is the best book",1
+"This is the best app",1
+"This is the best vacation",1
+"This is the best purchase",1
+"This is the best performance",1
+"I really enjoyed the movie",1
+"I really enjoyed the product",1
+"I really enjoyed the service",1
+"I really enjoyed the experience",1
+"I really enjoyed the restaurant",1
+"I really enjoyed the book",1
+"I really enjoyed the app",1
+"I really enjoyed the vacation",1
+"I really enjoyed the purchase",1
+"I really enjoyed the performance",1
+"It was a wonderful movie",1
+"It was a wonderful product",1
+"It was a wonderful service",1
+"It was a wonderful experience",1
+"It was a wonderful restaurant",1
+"It was a wonderful book",1
+"It was a wonderful app",1
+"It was a wonderful vacation",1
+"It was a wonderful purchase",1
+"It was a wonderful performance",1
+"I am impressed by the movie",1
+"I am impressed by the product",1
+"I am impressed by the service",1
+"I am impressed by the experience",1
+"I am impressed by the restaurant",1
+"I am impressed by the book",1
+"I am impressed by the app",1
+"I am impressed by the vacation",1
+"I am impressed by the purchase",1
+"I am impressed by the performance",1
+"This exceeded my expectations as an excellent movie",1
+"This exceeded my expectations as an excellent product",1
+"This exceeded my expectations as an excellent service",1
+"This exceeded my expectations as an excellent experience",1
+"This exceeded my expectations as an excellent restaurant",1
+"This exceeded my expectations as an excellent book",1
+"This exceeded my expectations as an excellent app",1
+"This exceeded my expectations as an excellent vacation",1
+"This exceeded my expectations as an excellent purchase",1
+"This exceeded my expectations as an excellent performance",1
+"I highly recommend this great movie",1
+"I highly recommend this great product",1
+"I highly recommend this great service",1
+"I highly recommend this great experience",1
+"I highly recommend this great restaurant",1
+"I highly recommend this great book",1
+"I highly recommend this great app",1
+"I highly recommend this great vacation",1
+"I highly recommend this great purchase",1
+"I highly recommend this great performance",1
+"I absolutely hated the movie",0
+"I absolutely hated the product",0
+"I absolutely hated the service",0
+"I absolutely hated the experience",0
+"I absolutely hated the restaurant",0
+"I absolutely hated the book",0
+"I absolutely hated the app",0
+"I absolutely hated the vacation",0
+"I absolutely hated the purchase",0
+"I absolutely hated the performance",0
+"This was a terrible movie",0
+"This was a terrible product",0
+"This was a terrible service",0
+"This was a terrible experience",0
+"This was a terrible restaurant",0
+"This was a terrible book",0
+"This was a terrible app",0
+"This was a terrible vacation",0
+"This was a terrible purchase",0
+"This was a terrible performance",0
+"What a disappointing movie",0
+"What a disappointing product",0
+"What a disappointing service",0
+"What a disappointing experience",0
+"What a disappointing restaurant",0
+"What a disappointing book",0
+"What a disappointing app",0
+"What a disappointing vacation",0
+"What a disappointing purchase",0
+"What a disappointing performance",0
+"I am so unhappy with the movie",0
+"I am so unhappy with the product",0
+"I am so unhappy with the service",0
+"I am so unhappy with the experience",0
+"I am so unhappy with the restaurant",0
+"I am so unhappy with the book",0
+"I am so unhappy with the app",0
+"I am so unhappy with the vacation",0
+"I am so unhappy with the purchase",0
+"I am so unhappy with the performance",0
+"This is the worst movie",0
+"This is the worst product",0
+"This is the worst service",0
+"This is the worst experience",0
+"This is the worst restaurant",0
+"This is the worst book",0
+"This is the worst app",0
+"This is the worst vacation",0
+"This is the worst purchase",0
+"This is the worst performance",0
+"I really disliked the movie",0
+"I really disliked the product",0
+"I really disliked the service",0
+"I really disliked the experience",0
+"I really disliked the restaurant",0
+"I really disliked the book",0
+"I really disliked the app",0
+"I really disliked the vacation",0
+"I really disliked the purchase",0
+"I really disliked the performance",0
+"It was a horrible movie",0
+"It was a horrible product",0
+"It was a horrible service",0
+"It was a horrible experience",0
+"It was a horrible restaurant",0
+"It was a horrible book",0
+"It was a horrible app",0
+"It was a horrible vacation",0
+"It was a horrible purchase",0
+"It was a horrible performance",0
+"I am frustrated by the movie",0
+"I am frustrated by the product",0
+"I am frustrated by the service",0
+"I am frustrated by the experience",0
+"I am frustrated by the restaurant",0
+"I am frustrated by the book",0
+"I am frustrated by the app",0
+"I am frustrated by the vacation",0
+"I am frustrated by the purchase",0
+"I am frustrated by the performance",0
+"This fell far below my expectations as a poor movie",0
+"This fell far below my expectations as a poor product",0
+"This fell far below my expectations as a poor service",0
+"This fell far below my expectations as a poor experience",0
+"This fell far below my expectations as a poor restaurant",0
+"This fell far below my expectations as a poor book",0
+"This fell far below my expectations as a poor app",0
+"This fell far below my expectations as a poor vacation",0
+"This fell far below my expectations as a poor purchase",0
+"This fell far below my expectations as a poor performance",0
+"I would not recommend this bad movie",0
+"I would not recommend this bad product",0
+"I would not recommend this bad service",0
+"I would not recommend this bad experience",0
+"I would not recommend this bad restaurant",0
+"I would not recommend this bad book",0
+"I would not recommend this bad app",0
+"I would not recommend this bad vacation",0
+"I would not recommend this bad purchase",0
+"I would not recommend this bad performance",0

@@ -1,0 +1,201 @@
+sentence,label
+"The movie was outstanding and enjoyable",1
+"The movie was outstanding and memorable",1
+"The movie was outstanding and impressive",1
+"The movie was outstanding and satisfying",1
+"The movie was outstanding and delightful",1
+"The movie was outstanding and exciting",1
+"The movie was outstanding and rewarding",1
+"The movie was outstanding and pleasant",1
+"The movie was outstanding and remarkable",1
+"The movie was outstanding and excellent",1
+"The book was beautifully written and enjoyable",1
+"The book was beautifully written and memorable",1
+"The book was beautifully written and impressive",1
+"The book was beautifully written and satisfying",1
+"The book was beautifully written and delightful",1
+"The book was beautifully written and exciting",1
+"The book was beautifully written and rewarding",1
+"The book was beautifully written and pleasant",1
+"The book was beautifully written and remarkable",1
+"The book was beautifully written and excellent",1
+"The gadget worked flawlessly and was enjoyable",1
+"The gadget worked flawlessly and was memorable",1
+"The gadget worked flawlessly and was impressive",1
+"The gadget worked flawlessly and was satisfying",1
+"The gadget worked flawlessly and was delightful",1
+"The gadget worked flawlessly and was exciting",1
+"The gadget worked flawlessly and was rewarding",1
+"The gadget worked flawlessly and was pleasant",1
+"The gadget worked flawlessly and was remarkable",1
+"The gadget worked flawlessly and was excellent",1
+"The restaurant meal was tasty and enjoyable",1
+"The restaurant meal was tasty and memorable",1
+"The restaurant meal was tasty and impressive",1
+"The restaurant meal was tasty and satisfying",1
+"The restaurant meal was tasty and delightful",1
+"The restaurant meal was tasty and exciting",1
+"The restaurant meal was tasty and rewarding",1
+"The restaurant meal was tasty and pleasant",1
+"The restaurant meal was tasty and remarkable",1
+"The restaurant meal was tasty and excellent",1
+"The concert was thrilling and enjoyable",1
+"The concert was thrilling and memorable",1
+"The concert was thrilling and impressive",1
+"The concert was thrilling and satisfying",1
+"The concert was thrilling and delightful",1
+"The concert was thrilling and exciting",1
+"The concert was thrilling and rewarding",1
+"The concert was thrilling and pleasant",1
+"The concert was thrilling and remarkable",1
+"The concert was thrilling and excellent",1
+"The hotel stay was comfortable and enjoyable",1
+"The hotel stay was comfortable and memorable",1
+"The hotel stay was comfortable and impressive",1
+"The hotel stay was comfortable and satisfying",1
+"The hotel stay was comfortable and delightful",1
+"The hotel stay was comfortable and exciting",1
+"The hotel stay was comfortable and rewarding",1
+"The hotel stay was comfortable and pleasant",1
+"The hotel stay was comfortable and remarkable",1
+"The hotel stay was comfortable and excellent",1
+"The course was informative and enjoyable",1
+"The course was informative and memorable",1
+"The course was informative and impressive",1
+"The course was informative and satisfying",1
+"The course was informative and delightful",1
+"The course was informative and exciting",1
+"The course was informative and rewarding",1
+"The course was informative and pleasant",1
+"The course was informative and remarkable",1
+"The course was informative and excellent",1
+"The game was fun and enjoyable",1
+"The game was fun and memorable",1
+"The game was fun and impressive",1
+"The game was fun and satisfying",1
+"The game was fun and delightful",1
+"The game was fun and exciting",1
+"The game was fun and rewarding",1
+"The game was fun and pleasant",1
+"The game was fun and remarkable",1
+"The game was fun and excellent",1
+"The photography was stunning and enjoyable",1
+"The photography was stunning and memorable",1
+"The photography was stunning and impressive",1
+"The photography was stunning and satisfying",1
+"The photography was stunning and delightful",1
+"The photography was stunning and exciting",1
+"The photography was stunning and rewarding",1
+"The photography was stunning and pleasant",1
+"The photography was stunning and remarkable",1
+"The photography was stunning and excellent",1
+"The service was quick and enjoyable",1
+"The service was quick and memorable",1
+"The service was quick and impressive",1
+"The service was quick and satisfying",1
+"The service was quick and delightful",1
+"The service was quick and exciting",1
+"The service was quick and rewarding",1
+"The service was quick and pleasant",1
+"The service was quick and remarkable",1
+"The service was quick and excellent",1
+"The movie was boring and disappointing",0
+"The movie was boring and forgettable",0
+"The movie was boring and unimpressive",0
+"The movie was boring and unsatisfying",0
+"The movie was boring and unpleasant",0
+"The movie was boring and tedious",0
+"The movie was boring and underwhelming",0
+"The movie was boring and annoying",0
+"The movie was boring and mediocre",0
+"The movie was boring and poor",0
+"The book was poorly written and disappointing",0
+"The book was poorly written and forgettable",0
+"The book was poorly written and unimpressive",0
+"The book was poorly written and unsatisfying",0
+"The book was poorly written and unpleasant",0
+"The book was poorly written and tedious",0
+"The book was poorly written and underwhelming",0
+"The book was poorly written and annoying",0
+"The book was poorly written and mediocre",0
+"The book was poorly written and poor",0
+"The gadget malfunctioned and was disappointing",0
+"The gadget malfunctioned and was forgettable",0
+"The gadget malfunctioned and was unimpressive",0
+"The gadget malfunctioned and was unsatisfying",0
+"The gadget malfunctioned and was unpleasant",0
+"The gadget malfunctioned and was tedious",0
+"The gadget malfunctioned and was underwhelming",0
+"The gadget malfunctioned and was annoying",0
+"The gadget malfunctioned and was mediocre",0
+"The gadget malfunctioned and was poor",0
+"The restaurant meal was bland and disappointing",0
+"The restaurant meal was bland and forgettable",0
+"The restaurant meal was bland and unimpressive",0
+"The restaurant meal was bland and unsatisfying",0
+"The restaurant meal was bland and unpleasant",0
+"The restaurant meal was bland and tedious",0
+"The restaurant meal was bland and underwhelming",0
+"The restaurant meal was bland and annoying",0
+"The restaurant meal was bland and mediocre",0
+"The restaurant meal was bland and poor",0
+"The concert was dull and disappointing",0
+"The concert was dull and forgettable",0
+"The concert was dull and unimpressive",0
+"The concert was dull and unsatisfying",0
+"The concert was dull and unpleasant",0
+"The concert was dull and tedious",0
+"The concert was dull and underwhelming",0
+"The concert was dull and annoying",0
+"The concert was dull and mediocre",0
+"The concert was dull and poor",0
+"The hotel stay was uncomfortable and disappointing",0
+"The hotel stay was uncomfortable and forgettable",0
+"The hotel stay was uncomfortable and unimpressive",0
+"The hotel stay was uncomfortable and unsatisfying",0
+"The hotel stay was uncomfortable and unpleasant",0
+"The hotel stay was uncomfortable and tedious",0
+"The hotel stay was uncomfortable and underwhelming",0
+"The hotel stay was uncomfortable and annoying",0
+"The hotel stay was uncomfortable and mediocre",0
+"The hotel stay was uncomfortable and poor",0
+"The course was confusing and disappointing",0
+"The course was confusing and forgettable",0
+"The course was confusing and unimpressive",0
+"The course was confusing and unsatisfying",0
+"The course was confusing and unpleasant",0
+"The course was confusing and tedious",0
+"The course was confusing and underwhelming",0
+"The course was confusing and annoying",0
+"The course was confusing and mediocre",0
+"The course was confusing and poor",0
+"The game was frustrating and disappointing",0
+"The game was frustrating and forgettable",0
+"The game was frustrating and unimpressive",0
+"The game was frustrating and unsatisfying",0
+"The game was frustrating and unpleasant",0
+"The game was frustrating and tedious",0
+"The game was frustrating and underwhelming",0
+"The game was frustrating and annoying",0
+"The game was frustrating and mediocre",0
+"The game was frustrating and poor",0
+"The photography was blurry and disappointing",0
+"The photography was blurry and forgettable",0
+"The photography was blurry and unimpressive",0
+"The photography was blurry and unsatisfying",0
+"The photography was blurry and unpleasant",0
+"The photography was blurry and tedious",0
+"The photography was blurry and underwhelming",0
+"The photography was blurry and annoying",0
+"The photography was blurry and mediocre",0
+"The photography was blurry and poor",0
+"The service was slow and disappointing",0
+"The service was slow and forgettable",0
+"The service was slow and unimpressive",0
+"The service was slow and unsatisfying",0
+"The service was slow and unpleasant",0
+"The service was slow and tedious",0
+"The service was slow and underwhelming",0
+"The service was slow and annoying",0
+"The service was slow and mediocre",0
+"The service was slow and poor",0

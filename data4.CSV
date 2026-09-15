@@ -1,0 +1,201 @@
+premise,hypothesis,label
+"A man is playing guitar","A man is playing music",entailment
+"A man is running in the park","A man is exercising outdoors",entailment
+"A man is cooking dinner","A man is preparing a meal",entailment
+"A man is reading a book","A man is engaged in reading",entailment
+"A man is painting a picture","A man is creating art",entailment
+"A man is teaching a class","A man is educating students",entailment
+"A man is driving a car","A man is operating a vehicle",entailment
+"A woman is playing guitar","A woman is playing music",entailment
+"A woman is running in the park","A woman is exercising outdoors",entailment
+"A woman is cooking dinner","A woman is preparing a meal",entailment
+"A woman is reading a book","A woman is engaged in reading",entailment
+"A woman is painting a picture","A woman is creating art",entailment
+"A woman is teaching a class","A woman is educating students",entailment
+"A woman is driving a car","A woman is operating a vehicle",entailment
+"A boy is playing guitar","A boy is playing music",entailment
+"A boy is running in the park","A boy is exercising outdoors",entailment
+"A boy is cooking dinner","A boy is preparing a meal",entailment
+"A boy is reading a book","A boy is engaged in reading",entailment
+"A boy is painting a picture","A boy is creating art",entailment
+"A boy is teaching a class","A boy is educating students",entailment
+"A boy is driving a car","A boy is operating a vehicle",entailment
+"A girl is playing guitar","A girl is playing music",entailment
+"A girl is running in the park","A girl is exercising outdoors",entailment
+"A girl is cooking dinner","A girl is preparing a meal",entailment
+"A girl is reading a book","A girl is engaged in reading",entailment
+"A girl is painting a picture","A girl is creating art",entailment
+"A girl is teaching a class","A girl is educating students",entailment
+"A girl is driving a car","A girl is operating a vehicle",entailment
+"A dog is playing guitar","A dog is playing music",entailment
+"A dog is running in the park","A dog is exercising outdoors",entailment
+"A dog is cooking dinner","A dog is preparing a meal",entailment
+"A dog is reading a book","A dog is engaged in reading",entailment
+"A dog is painting a picture","A dog is creating art",entailment
+"A dog is teaching a class","A dog is educating students",entailment
+"A dog is driving a car","A dog is operating a vehicle",entailment
+"A cat is playing guitar","A cat is playing music",entailment
+"A cat is running in the park","A cat is exercising outdoors",entailment
+"A cat is cooking dinner","A cat is preparing a meal",entailment
+"A cat is reading a book","A cat is engaged in reading",entailment
+"A cat is painting a picture","A cat is creating art",entailment
+"A cat is teaching a class","A cat is educating students",entailment
+"A cat is driving a car","A cat is operating a vehicle",entailment
+"A chef is playing guitar","A chef is playing music",entailment
+"A chef is running in the park","A chef is exercising outdoors",entailment
+"A chef is cooking dinner","A chef is preparing a meal",entailment
+"A chef is reading a book","A chef is engaged in reading",entailment
+"A chef is painting a picture","A chef is creating art",entailment
+"A chef is teaching a class","A chef is educating students",entailment
+"A chef is driving a car","A chef is operating a vehicle",entailment
+"A teacher is playing guitar","A teacher is playing music",entailment
+"A teacher is running in the park","A teacher is exercising outdoors",entailment
+"A teacher is cooking dinner","A teacher is preparing a meal",entailment
+"A teacher is reading a book","A teacher is engaged in reading",entailment
+"A teacher is painting a picture","A teacher is creating art",entailment
+"A teacher is teaching a class","A teacher is educating students",entailment
+"A teacher is driving a car","A teacher is operating a vehicle",entailment
+"A driver is playing guitar","A driver is playing music",entailment
+"A driver is running in the park","A driver is exercising outdoors",entailment
+"A driver is cooking dinner","A driver is preparing a meal",entailment
+"A driver is reading a book","A driver is engaged in reading",entailment
+"A driver is painting a picture","A driver is creating art",entailment
+"A driver is teaching a class","A driver is educating students",entailment
+"A driver is driving a car","A driver is operating a vehicle",entailment
+"A musician is playing guitar","A musician is playing music",entailment
+"A musician is running in the park","A musician is exercising outdoors",entailment
+"A musician is cooking dinner","A musician is preparing a meal",entailment
+"A musician is reading a book","A musician is engaged in reading",entailment
+"A musician is painting a picture","A musician is creating art",entailment
+"A musician is teaching a class","A musician is educating students",entailment
+"A musician is driving a car","A musician is operating a vehicle",entailment
+"A man is playing guitar","A man is sleeping",contradiction
+"A man is running in the park","A man is sitting still",contradiction
+"A man is cooking dinner","A man is watching a movie",contradiction
+"A man is reading a book","A man is fast asleep",contradiction
+"A man is painting a picture","A man is exercising heavily",contradiction
+"A man is teaching a class","A man is on vacation",contradiction
+"A man is driving a car","A man is taking a nap",contradiction
+"A woman is playing guitar","A woman is sleeping",contradiction
+"A woman is running in the park","A woman is sitting still",contradiction
+"A woman is cooking dinner","A woman is watching a movie",contradiction
+"A woman is reading a book","A woman is fast asleep",contradiction
+"A woman is painting a picture","A woman is exercising heavily",contradiction
+"A woman is teaching a class","A woman is on vacation",contradiction
+"A woman is driving a car","A woman is taking a nap",contradiction
+"A boy is playing guitar","A boy is sleeping",contradiction
+"A boy is running in the park","A boy is sitting still",contradiction
+"A boy is cooking dinner","A boy is watching a movie",contradiction
+"A boy is reading a book","A boy is fast asleep",contradiction
+"A boy is painting a picture","A boy is exercising heavily",contradiction
+"A boy is teaching a class","A boy is on vacation",contradiction
+"A boy is driving a car","A boy is taking a nap",contradiction
+"A girl is playing guitar","A girl is sleeping",contradiction
+"A girl is running in the park","A girl is sitting still",contradiction
+"A girl is cooking dinner","A girl is watching a movie",contradiction
+"A girl is reading a book","A girl is fast asleep",contradiction
+"A girl is painting a picture","A girl is exercising heavily",contradiction
+"A girl is teaching a class","A girl is on vacation",contradiction
+"A girl is driving a car","A girl is taking a nap",contradiction
+"A dog is playing guitar","A dog is sleeping",contradiction
+"A dog is running in the park","A dog is sitting still",contradiction
+"A dog is cooking dinner","A dog is watching a movie",contradiction
+"A dog is reading a book","A dog is fast asleep",contradiction
+"A dog is painting a picture","A dog is exercising heavily",contradiction
+"A dog is teaching a class","A dog is on vacation",contradiction
+"A dog is driving a car","A dog is taking a nap",contradiction
+"A cat is playing guitar","A cat is sleeping",contradiction
+"A cat is running in the park","A cat is sitting still",contradiction
+"A cat is cooking dinner","A cat is watching a movie",contradiction
+"A cat is reading a book","A cat is fast asleep",contradiction
+"A cat is painting a picture","A cat is exercising heavily",contradiction
+"A cat is teaching a class","A cat is on vacation",contradiction
+"A cat is driving a car","A cat is taking a nap",contradiction
+"A chef is playing guitar","A chef is sleeping",contradiction
+"A chef is running in the park","A chef is sitting still",contradiction
+"A chef is cooking dinner","A chef is watching a movie",contradiction
+"A chef is reading a book","A chef is fast asleep",contradiction
+"A chef is painting a picture","A chef is exercising heavily",contradiction
+"A chef is teaching a class","A chef is on vacation",contradiction
+"A chef is driving a car","A chef is taking a nap",contradiction
+"A teacher is playing guitar","A teacher is sleeping",contradiction
+"A teacher is running in the park","A teacher is sitting still",contradiction
+"A teacher is cooking dinner","A teacher is watching a movie",contradiction
+"A teacher is reading a book","A teacher is fast asleep",contradiction
+"A teacher is painting a picture","A teacher is exercising heavily",contradiction
+"A teacher is teaching a class","A teacher is on vacation",contradiction
+"A teacher is driving a car","A teacher is taking a nap",contradiction
+"A driver is playing guitar","A driver is sleeping",contradiction
+"A driver is running in the park","A driver is sitting still",contradiction
+"A driver is cooking dinner","A driver is watching a movie",contradiction
+"A driver is reading a book","A driver is fast asleep",contradiction
+"A driver is painting a picture","A driver is exercising heavily",contradiction
+"A driver is teaching a class","A driver is on vacation",contradiction
+"A driver is driving a car","A driver is taking a nap",contradiction
+"A musician is playing guitar","A musician is sleeping",contradiction
+"A musician is running in the park","A musician is sitting still",contradiction
+"A musician is cooking dinner","A musician is watching a movie",contradiction
+"A musician is reading a book","A musician is fast asleep",contradiction
+"A musician is painting a picture","A musician is exercising heavily",contradiction
+"A musician is teaching a class","A musician is on vacation",contradiction
+"A musician is driving a car","A musician is taking a nap",contradiction
+"A man is playing guitar","It is raining outside",neutral
+"A man is running in the park","The park has many trees",neutral
+"A man is cooking dinner","The restaurant is popular",neutral
+"A man is reading a book","The library closes at nine",neutral
+"A man is painting a picture","The gallery opens tomorrow",neutral
+"A man is teaching a class","The school has a new building",neutral
+"A woman is playing guitar","It is raining outside",neutral
+"A woman is running in the park","The park has many trees",neutral
+"A woman is cooking dinner","The restaurant is popular",neutral
+"A woman is reading a book","The library closes at nine",neutral
+"A woman is painting a picture","The gallery opens tomorrow",neutral
+"A woman is teaching a class","The school has a new building",neutral
+"A boy is playing guitar","It is raining outside",neutral
+"A boy is running in the park","The park has many trees",neutral
+"A boy is cooking dinner","The restaurant is popular",neutral
+"A boy is reading a book","The library closes at nine",neutral
+"A boy is painting a picture","The gallery opens tomorrow",neutral
+"A boy is teaching a class","The school has a new building",neutral
+"A girl is playing guitar","It is raining outside",neutral
+"A girl is running in the park","The park has many trees",neutral
+"A girl is cooking dinner","The restaurant is popular",neutral
+"A girl is reading a book","The library closes at nine",neutral
+"A girl is painting a picture","The gallery opens tomorrow",neutral
+"A girl is teaching a class","The school has a new building",neutral
+"A dog is playing guitar","It is raining outside",neutral
+"A dog is running in the park","The park has many trees",neutral
+"A dog is cooking dinner","The restaurant is popular",neutral
+"A dog is reading a book","The library closes at nine",neutral
+"A dog is painting a picture","The gallery opens tomorrow",neutral
+"A dog is teaching a class","The school has a new building",neutral
+"A cat is playing guitar","It is raining outside",neutral
+"A cat is running in the park","The park has many trees",neutral
+"A cat is cooking dinner","The restaurant is popular",neutral
+"A cat is reading a book","The library closes at nine",neutral
+"A cat is painting a picture","The gallery opens tomorrow",neutral
+"A cat is teaching a class","The school has a new building",neutral
+"A chef is playing guitar","It is raining outside",neutral
+"A chef is running in the park","The park has many trees",neutral
+"A chef is cooking dinner","The restaurant is popular",neutral
+"A chef is reading a book","The library closes at nine",neutral
+"A chef is painting a picture","The gallery opens tomorrow",neutral
+"A chef is teaching a class","The school has a new building",neutral
+"A teacher is playing guitar","It is raining outside",neutral
+"A teacher is running in the park","The park has many trees",neutral
+"A teacher is cooking dinner","The restaurant is popular",neutral
+"A teacher is reading a book","The library closes at nine",neutral
+"A teacher is painting a picture","The gallery opens tomorrow",neutral
+"A teacher is teaching a class","The school has a new building",neutral
+"A driver is playing guitar","It is raining outside",neutral
+"A driver is running in the park","The park has many trees",neutral
+"A driver is cooking dinner","The restaurant is popular",neutral
+"A driver is reading a book","The library closes at nine",neutral
+"A driver is painting a picture","The gallery opens tomorrow",neutral
+"A driver is teaching a class","The school has a new building",neutral
+"A musician is playing guitar","It is raining outside",neutral
+"A musician is running in the park","The park has many trees",neutral
+"A musician is cooking dinner","The restaurant is popular",neutral
+"A musician is reading a book","The library closes at nine",neutral
+"A musician is painting a picture","The gallery opens tomorrow",neutral
+"A musician is teaching a class","The school has a new building",neutral
